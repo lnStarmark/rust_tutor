@@ -267,7 +267,7 @@ fn title() {
 
 fn main() {
 
-	title();
+    title();
     test_fmt_out();
     test_fmt_debug();
     test_fmt_display();
